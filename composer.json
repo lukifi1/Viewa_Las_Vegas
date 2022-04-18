@@ -1,0 +1,19 @@
+{
+    "name": "htlw3r/viewa",
+    "description": "viewa las vegas",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Htlw3r\\Viewa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lukas Fink",
+            "email": "8133@htl.rennweg.at"
+        }
+    ],
+    "require": {
+        "typo3fluid/fluid": "^2.7"
+    }
+}
